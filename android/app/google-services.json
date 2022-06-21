@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "762951421809",
+    "project_id": "rack-71c38",
+    "storage_bucket": "rack-71c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762951421809:android:05f26e266ff79937adf0d0",
+        "android_client_info": {
+          "package_name": "com.rack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762951421809-7dn68u2e56j6brtmirug64ahhec5avut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQbrGt_GO51H060RZ34lbSvz1ubLE0dO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762951421809-7dn68u2e56j6brtmirug64ahhec5avut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
